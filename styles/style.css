@@ -1,0 +1,30 @@
+
+/* navbar style here */
+.navbar {
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+}
+.navbar h1 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+}
+.navbar button {
+    width: 250px;
+    height: 58px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 17px 24px 17px 24px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    opacity: 0.8;
+}
